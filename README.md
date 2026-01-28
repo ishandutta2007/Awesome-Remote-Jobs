@@ -1,15 +1,44 @@
-# Remote-friendly companies
+# 🏝️ Remote Jobs - A Curated List of Remote-Friendly Companies
 
-A list of semi to fully remote-friendly companies in or around tech.
+[![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/remoteintech/remotejobs/blob/main/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/remoteintech/remotejobs.svg)](https://GitHub.com/remoteintech/remotejobs/graphs/contributors/)
+[![GitHub Actions CI](https://github.com/remoteintech/remotejobs/actions/workflows/ci.yml/badge.svg)](https://github.com/remoteintech/remotejobs/actions/workflows/ci.yml)
 
-## The list
+Welcome to the repository for **Remote in Tech**, a curated list of semi to fully remote-friendly companies in the tech industry. If you're searching for your next remote job opportunity, you've come to the right place! Our goal is to provide a comprehensive and up-to-date resource for finding companies that embrace remote work.
 
-GitHub is for contributions and maintenance, you likely want to see the main site and list at [Remote In Tech](https://remoteintech.company/?utm_campaign=GitHub+bio&utm_source=github&utm_medium=bio&utm_content=textlink)
+This project is built with [Eleventy](https://www.11ty.dev/) and is designed to be a community-driven resource.
 
-### Credits and Thank Yous
+## 🚀 The Live Website
 
-**Lene Saile**
+While this repository contains all the data and the source code, the best way to browse the list of remote companies is on our website:
 
-Lene's incredible [Eleventy Excellent](https://github.com/madrilene/eleventy-excellent) is what site is built upon. 
+**[➡️ Visit RemoteInTech.company](https://remoteintech.company/?utm_campaign=GitHub+README&utm_source=github&utm_medium=readme&utm_content=textlink)**
 
-For full thanks, see their full list of [Credits and Thank Yous](https://github.com/madrilene/eleventy-excellent/blob/main/readme.md#credits-and-thank-yous) for what makes Eleventy Excellent so... excellent.# remotejobs
+##  Bing SEO Keywords (and for other search engines too!)
+
+We want to make it as easy as possible for people to find this resource. Here are some of the terms we're targeting:
+
+*   remote jobs
+*   remote tech jobs
+*   work from home jobs
+*   fully remote companies
+*   remote software engineering jobs
+*   distributed teams
+*   telecommute jobs
+*   remote developer jobs
+*   remote friendly companies
+*   work from anywhere
+
+## 🤝 How to Contribute
+
+This list is maintained by the community, and we welcome contributions! If you know of a remote-friendly company that isn't on our list, please consider adding it.
+
+To contribute, please read our [**Contributing Guide**](.github/CONTRIBUTING.md) for instructions on how to add new companies or update existing information.
+
+## 📜 License
+
+This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgements
+
+A big thank you to **Lene Saile** for the incredible [Eleventy Excellent](https://github.com/madrilene/eleventy-excellent) starter project that this site is built upon.
