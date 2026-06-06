@@ -42,6 +42,17 @@ Here are some of the best places to find remote-friendly tech jobs:
 *   **[LinkedIn](https://www.linkedin.com/jobs/remote-jobs/)**: Use the "Remote" filter to find opportunities globally.
 *   **[FlexJobs](https://www.flexjobs.com/)**: A subscription-based service that pre-screens remote and flexible jobs.
 
+## 🔥 Featured Remote Openings (June 2026)
+
+| Company | Role | Category | Apply Link |
+| :--- | :--- | :--- | :--- |
+| **Fox Corporation** | Software Developer (PWA/Video) | Frontend | [Apply](https://www.foxcareers.com/) |
+| **Propel** | Staff Software Engineer (Fullstack) | Fullstack | [Apply](https://www.propel.run/careers) |
+| **Vetcove** | Staff Frontend Engineer | Frontend | [Apply](https://www.vetcove.com/careers/) |
+| **Calendly** | Senior Full Stack Engineer | Fullstack | [Apply](https://calendly.com/careers) |
+| **Signifyd** | Software Engineer (Decisioning) | Backend | [Apply](https://www.signifyd.com/careers/) |
+| **Foundation AI** | Senior Software Engineer | AI/Infra | [Apply](https://foundation.ai/careers) |
+
 ## 🤝 How to Contribute
 
 This list is maintained by the community, and we welcome contributions! If you know of a remote-friendly company that isn't on our list, please consider adding it.
