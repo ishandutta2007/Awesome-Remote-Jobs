@@ -29,6 +29,19 @@ We want to make it as easy as possible for people to find this resource. Here ar
 *   remote friendly companies
 *   work from anywhere
 
+## 🌐 Remote Job Boards
+
+Here are some of the best places to find remote-friendly tech jobs:
+
+*   **[Remote OK](https://remoteok.com/)**: One of the most popular remote job boards for developers, designers, and more.
+*   **[We Work Remotely](https://weworkremotely.com/)**: The largest remote work community in the world.
+*   **[Wellfound (formerly AngelList)](https://wellfound.com/jobs)**: Great for finding roles in startups.
+*   **[Otta](https://otta.com/)**: A highly personalized job search platform for tech roles.
+*   **[Remote.co](https://remote.co/remote-jobs/)**: Hand-curated list of remote jobs.
+*   **[Hired](https://hired.com/)**: Companies apply to you for tech roles.
+*   **[LinkedIn](https://www.linkedin.com/jobs/remote-jobs/)**: Use the "Remote" filter to find opportunities globally.
+*   **[FlexJobs](https://www.flexjobs.com/)**: A subscription-based service that pre-screens remote and flexible jobs.
+
 ## 🤝 How to Contribute
 
 This list is maintained by the community, and we welcome contributions! If you know of a remote-friendly company that isn't on our list, please consider adding it.
