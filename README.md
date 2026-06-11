@@ -2,7 +2,9 @@
 
 [![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/remoteintech/remotejobs/blob/main/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/remoteintech/remotejobs.svg)](https://GitHub.com/remoteintech/remotejobs/graphs/contributors/)
-[![GitHub Actions CI](https://github.com/remoteintech/remotejobs/actions/workflows/ci.yml/badge.svg)](https://github.com/remoteintech/remotejobs/actions/workflows/ci.yml)
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
 
 Welcome to the repository for **Remote in Tech**, a curated list of semi to fully remote-friendly companies in the tech industry. If you're searching for your next remote job opportunity, you've come to the right place! Our goal is to provide a comprehensive and up-to-date resource for finding companies that embrace remote work.
 
