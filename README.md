@@ -1,94 +1,123 @@
-# 🏝️ Remote Jobs - A Curated List of Remote-Friendly Companies
+# 🏝️ Awesome Remote Jobs - Curated Directory of Remote-Friendly Tech Companies
 
-[![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/remoteintech/remotejobs/blob/main/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/remoteintech/remotejobs.svg)](https://GitHub.com/remoteintech/remotejobs/graphs/contributors/)
-  <a href="https://github.com/ishandutta2007">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-  </a>
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Remote Jobs Banner" width="100%" />
+</p>
 
-Welcome to the repository for **Remote in Tech**, a curated list of semi to fully remote-friendly companies in the tech industry. If you're searching for your next remote job opportunity, you've come to the right place! Our goal is to provide a comprehensive and up-to-date resource for finding companies that embrace remote work.
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/remoteintech/remotejobs/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-ISC-blue.svg" alt="GitHub license" /></a>
+  <a href="https://GitHub.com/remoteintech/remotejobs/graphs/contributors/"><img src="https://img.shields.io/github/contributors/remoteintech/remotejobs.svg" alt="GitHub contributors" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-This project is built with [Eleventy](https://www.11ty.dev/) and is designed to be a community-driven resource.
+---
+
+## 📖 Introduction & Overview
+
+Welcome to **Awesome Remote Jobs** (powered by **Remote in Tech**), the definitive, community-curated list of semi to fully remote-friendly companies and job search platforms in the tech industry. Whether you are searching for your next high-impact remote software engineering position, product management role, AI/ML opportunity, or flexible work-from-anywhere career, this repository aggregates trusted resources and vetted opportunities.
+
+This project is built with [Eleventy](https://www.11ty.dev/) and is continuously maintained as an open community-driven resource.
+
+---
 
 ## 🚀 The Live Website
 
-While this repository contains all the data and the source code, the best way to browse the list of remote companies is on our website:
+While this repository contains the source dataset and curated directories, you can explore the complete interactive directory and company profiles on the web:
 
-**[➡️ Visit RemoteInTech.company](https://remoteintech.company/?utm_campaign=GitHub+README&utm_source=github&utm_medium=readme&utm_content=textlink)**
+👉 **[Visit RemoteInTech.company](https://remoteintech.company/?utm_campaign=GitHub+README&utm_source=github&utm_medium=readme&utm_content=textlink)** 🌐
 
-##  Bing SEO Keywords (and for other search engines too!)
+---
 
-We want to make it as easy as possible for people to find this resource. Here are some of the terms we're targeting:
+## 🔍 SEO & Discovery Keywords
 
-*   remote jobs
-*   remote tech jobs
-*   work from home jobs
-*   fully remote companies
-*   remote software engineering jobs
-*   distributed teams
-*   telecommute jobs
-*   remote developer jobs
-*   remote friendly companies
-*   work from anywhere
+To help tech professionals, job seekers, and recruiters find these opportunities across Bing, Google, DuckDuckGo, and other search engines, here are our target focus areas:
 
-## 🌐 Remote Job Boards
+* 🌍 **remote jobs** &amp; **remote tech jobs**
+* 🏡 **work from home jobs** &amp; **work from anywhere**
+* 🏢 **fully remote companies** &amp; **remote-first startups**
+* 💻 **remote software engineering jobs** &amp; **remote developer jobs**
+* 👥 **distributed teams** &amp; **async remote work culture**
+* 📡 **telecommute jobs** &amp; **remote-friendly companies**
+* 🤖 **remote AI, ML & robotics jobs**
 
-Here are some of the best places to find remote-friendly tech jobs:
+---
 
-*   **[Dynamite Jobs](https://dynamitejobs.com/)**: Handpicked, vetted remote positions across engineering, product, marketing, and operations.
-*   **[FlexJobs](https://www.flexjobs.com/)**: A subscription-based service that pre-screens remote and flexible jobs.
-*   **[Hired](https://hired.com/)**: Companies apply to you for tech roles.
-*   **[Jobspresso](https://jobspresso.co/)**: Expertly curated remote careers in tech, marketing, customer support, and more.
-*   **[JS Remotely](https://jsremotely.com/)**: Remote JavaScript, TypeScript, React, Node.js, and frontend/fullstack developer jobs.
-*   **[LinkedIn](https://www.linkedin.com/jobs/remote-jobs/)**: Use the "Remote" filter to find opportunities globally.
-*   **[Nodesk](https://nodesk.co/remote-jobs/)**: A curated collection of remote jobs, digital nomad resources, and remote company profiles.
-*   **[Otta](https://otta.com/)**: A highly personalized job search platform for tech roles.
-*   **[Remote OK](https://remoteok.com/)**: One of the most popular remote job boards for developers, designers, and more.
-*   **[Remote.co](https://remote.co/remote-jobs/)**: Hand-curated list of remote jobs.
-*   **[RemoteRocketship](https://www.remoterocketship.com/)**: Automatically aggregates thousands of remote jobs directly from company career sites.
-*   **[Remotive](https://remotive.com/)**: Hand-screened remote tech, design, sales, and product jobs.
-*   **[RobotTraining.jobs](https://robottraining.jobs/remote-robot-training-jobs)**: Remote robot-training work (teleoperation, demonstration recording, at-home video capture) from robotics employers, with posted pay.
-*   **[We Work Remotely](https://weworkremotely.com/)**: The largest remote work community in the world.
-*   **[Wellfound (formerly AngelList)](https://wellfound.com/jobs)**: Great for finding roles in startups.
-*   **[Working Nomads](https://www.workingnomads.com/jobs)**: Curated lists of remote jobs for modern digital nomads and traveling professionals.
+## 🌐 Remote Job Boards & Aggregators
+
+Here are some of the most reliable and active platforms to find remote-friendly tech jobs:
+
+* 🎯 **[Dynamite Jobs](https://dynamitejobs.com/)**: Handpicked, vetted remote positions across engineering, product, marketing, and operations.
+* 🛡️ **[FlexJobs](https://www.flexjobs.com/)**: A subscription-based service that pre-screens remote and flexible jobs.
+* 🤝 **[Hired](https://hired.com/)**: Companies apply to you for tech and engineering roles.
+* ☕ **[Jobspresso](https://jobspresso.co/)**: Expertly curated remote careers in tech, marketing, customer support, and more.
+* ⚡ **[JS Remotely](https://jsremotely.com/)**: Remote JavaScript, TypeScript, React, Node.js, and frontend/fullstack developer jobs.
+* 💼 **[LinkedIn](https://www.linkedin.com/jobs/remote-jobs/)**: Use the "Remote" filter to find verified opportunities globally.
+* 🗺️ **[Nodesk](https://nodesk.co/remote-jobs/)**: A curated collection of remote jobs, digital nomad resources, and remote company profiles.
+* 🔎 **[Otta](https://otta.com/)**: A highly personalized job search platform tailored for modern tech roles.
+* 🚀 **[Remote OK](https://remoteok.com/)**: One of the most popular remote job boards for developers, designers, and tech talent.
+* 📋 **[Remote.co](https://remote.co/remote-jobs/)**: Hand-curated list of remote jobs and distributed team resources.
+* 🛸 **[RemoteRocketship](https://www.remoterocketship.com/)**: Automatically aggregates thousands of remote jobs directly from company career sites.
+* 💡 **[Remotive](https://remotive.com/)**: Hand-screened remote tech, design, sales, and product jobs.
+* 🤖 **[RobotTraining.jobs](https://robottraining.jobs/remote-robot-training-jobs)**: Remote robot-training work (teleoperation, demonstration recording, at-home video capture) from robotics employers, with posted pay.
+* 🌎 **[We Work Remotely](https://weworkremotely.com/)**: The largest remote work community in the world.
+* 🦄 **[Wellfound (formerly AngelList)](https://wellfound.com/jobs)**: Great for finding roles in high-growth startups.
+* 🧳 **[Working Nomads](https://www.workingnomads.com/jobs)**: Curated lists of remote jobs for modern digital nomads and traveling professionals.
+
+---
 
 ## 🔥 Featured Remote Openings
 
 | Company | Role | Category | Apply Link |
 | :--- | :--- | :--- | :--- |
-| **Automattic** | Senior Code Wrangler (Backend/WordPress) | Backend | [Apply](https://automattic.com/work-with-us/) |
-| **Calendly** | Senior Full Stack Engineer | Fullstack | [Apply](https://calendly.com/careers) |
-| **Canonical** | Software Engineer (Ubuntu / Cloud) | Systems/Cloud | [Apply](https://canonical.com/careers) |
-| **Foundation AI** | Senior Software Engineer | AI/Infra | [Apply](https://foundation.ai/careers) |
-| **Fox Corporation** | Software Developer (PWA/Video) | Frontend | [Apply](https://www.foxcareers.com/) |
-| **GitLab** | Senior Backend Engineer | Backend | [Apply](https://about.gitlab.com/jobs/) |
-| **Propel** | Staff Software Engineer (Fullstack) | Fullstack | [Apply](https://www.propel.run/careers) |
-| **Signifyd** | Software Engineer (Decisioning) | Backend | [Apply](https://www.signifyd.com/careers/) |
-| **Stripe** | Staff Software Engineer (Infrastructure) | Infra/Platform | [Apply](https://stripe.com/jobs) |
-| **Supabase** | Fullstack Engineer | Fullstack | [Apply](https://supabase.com/careers) |
-| **Vetcove** | Staff Frontend Engineer | Frontend | [Apply](https://www.vetcove.com/careers/) |
+| **Automattic** | Senior Code Wrangler (Backend/WordPress) | 🛠️ Backend | [Apply ↗️](https://automattic.com/work-with-us/) |
+| **Calendly** | Senior Full Stack Engineer | 💻 Fullstack | [Apply ↗️](https://calendly.com/careers) |
+| **Canonical** | Software Engineer (Ubuntu / Cloud) | ☁️ Systems/Cloud | [Apply ↗️](https://canonical.com/careers) |
+| **Foundation AI** | Senior Software Engineer | 🤖 AI/Infra | [Apply ↗️](https://foundation.ai/careers) |
+| **Fox Corporation** | Software Developer (PWA/Video) | 🎨 Frontend | [Apply ↗️](https://www.foxcareers.com/) |
+| **GitLab** | Senior Backend Engineer | 🛠️ Backend | [Apply ↗️](https://about.gitlab.com/jobs/) |
+| **Propel** | Staff Software Engineer (Fullstack) | 💻 Fullstack | [Apply ↗️](https://www.propel.run/careers) |
+| **Signifyd** | Software Engineer (Decisioning) | 🛠️ Backend | [Apply ↗️](https://www.signifyd.com/careers/) |
+| **Stripe** | Staff Software Engineer (Infrastructure) | 🏗️ Infra/Platform | [Apply ↗️](https://stripe.com/jobs) |
+| **Supabase** | Fullstack Engineer | 💻 Fullstack | [Apply ↗️](https://supabase.com/careers) |
+| **Vetcove** | Staff Frontend Engineer | 🎨 Frontend | [Apply ↗️](https://www.vetcove.com/careers/) |
+
+---
 
 ## 🤝 How to Contribute
 
-This list is maintained by the community, and we welcome contributions! If you know of a remote-friendly company that isn't on our list, please consider adding it.
+This list is maintained by the open-source community, and we warmly welcome contributions! If you know of a remote-friendly company or job platform that isn't on our list, please consider adding it.
 
 To contribute, please read our [**Contributing Guide**](.github/CONTRIBUTING.md) for instructions on how to add new companies or update existing information.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for using and supporting this repository! ❤️
+
+If this project helps you on your remote job search journey or if you find value in these curated resources, please consider:
+- ⭐ **Starring** this repository to help others discover it
+- 🍴 **Forking** and contributing new remote-friendly companies
+- 📢 **Sharing** it with friends, colleagues, and remote communities
+- ☕ **Buying a coffee / Sponsoring** the maintainer via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007)
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/ishandutta2007)
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Remote-Jobs&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Remote-Jobs&type=date&legend=top-left)
+
+---
 
 ## 📜 License
 
 This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
 
-## 📈 Star History
-
-<div align="center">
-   <a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Remote-Jobs&type=date&legend=bottom-right">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Remote-Jobs&type=date&theme=dark&legend=bottom-right" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Remote-Jobs&type=date&legend=bottom-right" />
-      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Remote-Jobs&type=date&legend=bottom-right" />
-    </picture>
-   </a>
-</div>
+---
 
 ## 🙏 Acknowledgements
 
