@@ -35,26 +35,38 @@ We want to make it as easy as possible for people to find this resource. Here ar
 
 Here are some of the best places to find remote-friendly tech jobs:
 
+*   **[Dynamite Jobs](https://dynamitejobs.com/)**: Handpicked, vetted remote positions across engineering, product, marketing, and operations.
+*   **[FlexJobs](https://www.flexjobs.com/)**: A subscription-based service that pre-screens remote and flexible jobs.
+*   **[Hired](https://hired.com/)**: Companies apply to you for tech roles.
+*   **[Jobspresso](https://jobspresso.co/)**: Expertly curated remote careers in tech, marketing, customer support, and more.
+*   **[JS Remotely](https://jsremotely.com/)**: Remote JavaScript, TypeScript, React, Node.js, and frontend/fullstack developer jobs.
+*   **[LinkedIn](https://www.linkedin.com/jobs/remote-jobs/)**: Use the "Remote" filter to find opportunities globally.
+*   **[Nodesk](https://nodesk.co/remote-jobs/)**: A curated collection of remote jobs, digital nomad resources, and remote company profiles.
+*   **[Otta](https://otta.com/)**: A highly personalized job search platform for tech roles.
 *   **[Remote OK](https://remoteok.com/)**: One of the most popular remote job boards for developers, designers, and more.
+*   **[Remote.co](https://remote.co/remote-jobs/)**: Hand-curated list of remote jobs.
+*   **[RemoteRocketship](https://www.remoterocketship.com/)**: Automatically aggregates thousands of remote jobs directly from company career sites.
+*   **[Remotive](https://remotive.com/)**: Hand-screened remote tech, design, sales, and product jobs.
+*   **[RobotTraining.jobs](https://robottraining.jobs/remote-robot-training-jobs)**: Remote robot-training work (teleoperation, demonstration recording, at-home video capture) from robotics employers, with posted pay.
 *   **[We Work Remotely](https://weworkremotely.com/)**: The largest remote work community in the world.
 *   **[Wellfound (formerly AngelList)](https://wellfound.com/jobs)**: Great for finding roles in startups.
-*   **[Otta](https://otta.com/)**: A highly personalized job search platform for tech roles.
-*   **[Remote.co](https://remote.co/remote-jobs/)**: Hand-curated list of remote jobs.
-*   **[Hired](https://hired.com/)**: Companies apply to you for tech roles.
-*   **[LinkedIn](https://www.linkedin.com/jobs/remote-jobs/)**: Use the "Remote" filter to find opportunities globally.
-*   **[FlexJobs](https://www.flexjobs.com/)**: A subscription-based service that pre-screens remote and flexible jobs.
-*   **[RobotTraining.jobs](https://robottraining.jobs/remote-robot-training-jobs)**: Remote robot-training work (teleoperation, demonstration recording, at-home video capture) from robotics employers, with posted pay.
+*   **[Working Nomads](https://www.workingnomads.com/jobs)**: Curated lists of remote jobs for modern digital nomads and traveling professionals.
 
-## 🔥 Featured Remote Openings (June 2026)
+## 🔥 Featured Remote Openings
 
 | Company | Role | Category | Apply Link |
 | :--- | :--- | :--- | :--- |
-| **Fox Corporation** | Software Developer (PWA/Video) | Frontend | [Apply](https://www.foxcareers.com/) |
-| **Propel** | Staff Software Engineer (Fullstack) | Fullstack | [Apply](https://www.propel.run/careers) |
-| **Vetcove** | Staff Frontend Engineer | Frontend | [Apply](https://www.vetcove.com/careers/) |
+| **Automattic** | Senior Code Wrangler (Backend/WordPress) | Backend | [Apply](https://automattic.com/work-with-us/) |
 | **Calendly** | Senior Full Stack Engineer | Fullstack | [Apply](https://calendly.com/careers) |
-| **Signifyd** | Software Engineer (Decisioning) | Backend | [Apply](https://www.signifyd.com/careers/) |
+| **Canonical** | Software Engineer (Ubuntu / Cloud) | Systems/Cloud | [Apply](https://canonical.com/careers) |
 | **Foundation AI** | Senior Software Engineer | AI/Infra | [Apply](https://foundation.ai/careers) |
+| **Fox Corporation** | Software Developer (PWA/Video) | Frontend | [Apply](https://www.foxcareers.com/) |
+| **GitLab** | Senior Backend Engineer | Backend | [Apply](https://about.gitlab.com/jobs/) |
+| **Propel** | Staff Software Engineer (Fullstack) | Fullstack | [Apply](https://www.propel.run/careers) |
+| **Signifyd** | Software Engineer (Decisioning) | Backend | [Apply](https://www.signifyd.com/careers/) |
+| **Stripe** | Staff Software Engineer (Infrastructure) | Infra/Platform | [Apply](https://stripe.com/jobs) |
+| **Supabase** | Fullstack Engineer | Fullstack | [Apply](https://supabase.com/careers) |
+| **Vetcove** | Staff Frontend Engineer | Frontend | [Apply](https://www.vetcove.com/careers/) |
 
 ## 🤝 How to Contribute
 
