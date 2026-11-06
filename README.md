@@ -43,6 +43,7 @@ Here are some of the best places to find remote-friendly tech jobs:
 *   **[Hired](https://hired.com/)**: Companies apply to you for tech roles.
 *   **[LinkedIn](https://www.linkedin.com/jobs/remote-jobs/)**: Use the "Remote" filter to find opportunities globally.
 *   **[FlexJobs](https://www.flexjobs.com/)**: A subscription-based service that pre-screens remote and flexible jobs.
+*   **[RobotTraining.jobs](https://robottraining.jobs/remote-robot-training-jobs)**: Remote robot-training work (teleoperation, demonstration recording, at-home video capture) from robotics employers, with posted pay.
 
 ## 🔥 Featured Remote Openings (June 2026)
 
