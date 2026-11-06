@@ -122,3 +122,12 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgements
 
 A big thank you to **Lene Saile** for the incredible [Eleventy Excellent](https://github.com/madrilene/eleventy-excellent) starter project that this site is built upon.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Remote-Jobs&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Remote-Jobs_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Remote-Jobs_growth.svg">
+  </picture>
+</a>
