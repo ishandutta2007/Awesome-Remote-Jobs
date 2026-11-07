@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%" height="auto">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0f1d" />
+      <stop offset="50%" stop-color="#0e172a" />
+      <stop offset="100%" stop-color="#070a14" />
+    </linearGradient>
+
+    <linearGradient id="primaryGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34d399" />
+      <stop offset="100%" stop-color="#3b82f6" />
+    </linearGradient>
+
+    <radialGradient id="glow1" cx="20%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="glow2" cx="80%" cy="70%" r="50%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0" />
+    </radialGradient>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#334155" stroke-width="1" stroke-opacity="0.25" />
+      <circle cx="40" cy="0" r="1.5" fill="#38bdf8" fill-opacity="0.3" />
+    </pattern>
+
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.6"/>
+    </filter>
+
+    <style>
+      @keyframes floatSlow {
+        0%, 100% { transform: translateY(0px) rotate(0deg); }
+        50% { transform: translateY(-12px) rotate(3deg); }
+      }
+      @keyframes floatReverse {
+        0%, 100% { transform: translateY(0px) rotate(0deg); }
+        50% { transform: translateY(12px) rotate(-3deg); }
+      }
+      @keyframes pulseGlow {
+        0%, 100% { opacity: 0.4; }
+        50% { opacity: 0.8; }
+      }
+      @keyframes orbitBadge {
+        0% { transform: translateX(0px); }
+        50% { transform: translateX(10px); }
+        100% { transform: translateX(0px); }
+      }
+      .floating-pill-1 { animation: floatSlow 6s ease-in-out infinite; }
+      .floating-pill-2 { animation: floatReverse 7s ease-in-out infinite; }
+      .floating-pill-3 { animation: floatSlow 8s ease-in-out infinite 1s; }
+      .pulse-item { animation: pulseGlow 4s ease-in-out infinite; }
+      .badge-orbit { animation: orbitBadge 5s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="1200" height="400" fill="url(#bgGrad)" rx="16" />
+  <rect width="1200" height="400" fill="url(#grid)" rx="16" />
+
+  <!-- Ambient Glow Orbs -->
+  <circle cx="250" cy="120" r="220" fill="url(#glow1)" class="pulse-item" />
+  <circle cx="950" cy="280" r="240" fill="url(#glow2)" class="pulse-item" />
+
+  <!-- Animated Decorative Background Geometry -->
+  <g class="floating-pill-1" opacity="0.75">
+    <rect x="80" y="70" width="170" height="42" rx="21" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5" />
+    <circle cx="102" cy="91" r="7" fill="#10b981" />
+    <text x="120" y="96" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600">🌍 100% Remote</text>
+  </g>
+
+  <g class="floating-pill-2" opacity="0.75">
+    <rect x="940" y="75" width="180" height="42" rx="21" fill="#1e293b" stroke="#a855f7" stroke-width="1.5" />
+    <circle cx="962" cy="96" r="7" fill="#a855f7" />
+    <text x="980" y="101" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600">💼 Global Careers</text>
+  </g>
+
+  <g class="floating-pill-3" opacity="0.75">
+    <rect x="110" y="295" width="200" height="42" rx="21" fill="#1e293b" stroke="#34d399" stroke-width="1.5" />
+    <circle cx="132" cy="316" r="7" fill="#34d399" />
+    <text x="150" y="321" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600">⚡ Work From Anywhere</text>
+  </g>
+
+  <g class="badge-orbit" opacity="0.75">
+    <rect x="910" y="290" width="200" height="42" rx="21" fill="#1e293b" stroke="#f59e0b" stroke-width="1.5" />
+    <circle cx="932" cy="311" r="7" fill="#f59e0b" />
+    <text x="950" y="316" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600">🔥 Curated Tech Jobs</text>
+  </g>
+
+  <!-- Decorative Orbit Lines -->
+  <path d="M 180,200 Q 600,60 1020,200" fill="none" stroke="url(#primaryGrad)" stroke-width="1.5" stroke-dasharray="6,8" opacity="0.35" />
+  <path d="M 180,220 Q 600,360 1020,220" fill="none" stroke="url(#accentGrad)" stroke-width="1.5" stroke-dasharray="6,8" opacity="0.35" />
+
+  <!-- Center Content Card (Foreground Protection) -->
+  <g filter="url(#shadow)">
+    <!-- Top Pill -->
+    <g transform="translate(480, 50)">
+      <rect x="0" y="0" width="240" height="34" rx="17" fill="#1e293b" stroke="url(#primaryGrad)" stroke-width="1.5" />
+      <circle cx="20" cy="17" r="5" fill="#38bdf8" />
+      <text x="35" y="22" fill="#e2e8f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" letter-spacing="1">CURATED TECH DIRECTORY</text>
+    </g>
+
+    <!-- Main Title -->
+    <text x="600" y="155" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="900" fill="url(#primaryGrad)" letter-spacing="-0.5">
+      🏝️ AWESOME REMOTE JOBS
+    </text>
+
+    <!-- Subtitle -->
+    <text x="600" y="200" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="500" fill="#cbd5e1" letter-spacing="0.2">
+      Curated List of Semi &amp; Fully Remote-Friendly Tech Companies Worldwide
+    </text>
+
+    <text x="600" y="230" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="400" fill="#94a3b8">
+      Engineering • Product • Design • Data • AI/Infra • Distributed Culture
+    </text>
+
+    <!-- Feature Tags Row -->
+    <g transform="translate(600, 275)">
+      <!-- Item 1 -->
+      <g transform="translate(-250, 0)">
+        <rect x="0" y="0" width="150" height="32" rx="16" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <text x="75" y="20" text-anchor="middle" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">🚀 Top Platforms</text>
+      </g>
+      <!-- Item 2 -->
+      <g transform="translate(-80, 0)">
+        <rect x="0" y="0" width="160" height="32" rx="16" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <text x="80" y="20" text-anchor="middle" fill="#34d399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">✨ Active Openings</text>
+      </g>
+      <!-- Item 3 -->
+      <g transform="translate(100, 0)">
+        <rect x="0" y="0" width="150" height="32" rx="16" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <text x="75" y="20" text-anchor="middle" fill="#c084fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">🤝 Open Source</text>
+      </g>
+    </g>
+  </g>
+</svg>
