@@ -48,6 +48,7 @@ To help tech professionals, job seekers, and recruiters find these opportunities
 
 Here are some of the most reliable and active platforms to find remote-friendly tech jobs:
 
+
 * 🎯 **[Dynamite Jobs](https://dynamitejobs.com/)**: Handpicked, vetted remote positions across engineering, product, marketing, and operations.
 * 🛡️ **[FlexJobs](https://www.flexjobs.com/)**: A subscription-based service that pre-screens remote and flexible jobs.
 * 🤝 **[Hired](https://hired.com/)**: Companies apply to you for tech and engineering roles.
@@ -64,6 +65,8 @@ Here are some of the most reliable and active platforms to find remote-friendly 
 * 🌎 **[We Work Remotely](https://weworkremotely.com/)**: The largest remote work community in the world.
 * 🦄 **[Wellfound (formerly AngelList)](https://wellfound.com/jobs)**: Great for finding roles in high-growth startups.
 * 🧳 **[Working Nomads](https://www.workingnomads.com/jobs)**: Curated lists of remote jobs for modern digital nomads and traveling professionals.
+* 📋 **[Jaabz](https://jaabz.com/)**: Tech jobs with visa sponsorship, relocation, and remote filters.
+
 
 ---
 
