@@ -49,6 +49,7 @@ To help tech professionals, job seekers, and recruiters find these opportunities
 Here are some of the most reliable and active platforms to find remote-friendly tech jobs:
 
 
+* 🧭 **[DoableFromHome](https://doablefromhome.com/)**: Remote tech jobs read from company ATS boards, with an eligibility verdict (eligible, likely, unclear or not eligible) for each of 191 countries.
 * 🎯 **[Dynamite Jobs](https://dynamitejobs.com/)**: Handpicked, vetted remote positions across engineering, product, marketing, and operations.
 * 🛡️ **[FlexJobs](https://www.flexjobs.com/)**: A subscription-based service that pre-screens remote and flexible jobs.
 * 🤝 **[Hired](https://hired.com/)**: Companies apply to you for tech and engineering roles.
