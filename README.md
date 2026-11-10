@@ -66,6 +66,7 @@ Here are some of the most reliable and active platforms to find remote-friendly 
 * 🦄 **[Wellfound (formerly AngelList)](https://wellfound.com/jobs)**: Great for finding roles in high-growth startups.
 * 🧳 **[Working Nomads](https://www.workingnomads.com/jobs)**: Curated lists of remote jobs for modern digital nomads and traveling professionals.
 * 📋 **[Jaabz](https://jaabz.com/)**: Tech jobs with visa sponsorship, relocation, and remote filters.
+* ⛓️ **[chainjobs.app](https://chainjobs.app/)**: Free Web3 and freelance job board where clients post jobs, freelancers offer services, and both sides chat directly; payment in crypto or bank transfer, 0% platform commission.
 
 
 ---
