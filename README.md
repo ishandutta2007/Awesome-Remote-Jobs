@@ -66,6 +66,7 @@ Here are some of the most reliable and active platforms to find remote-friendly 
 * 🦄 **[Wellfound (formerly AngelList)](https://wellfound.com/jobs)**: Great for finding roles in high-growth startups.
 * 🧳 **[Working Nomads](https://www.workingnomads.com/jobs)**: Curated lists of remote jobs for modern digital nomads and traveling professionals.
 * 📋 **[Jaabz](https://jaabz.com/)**: Tech jobs with visa sponsorship, relocation, and remote filters.
+* ⏱️ **[Jobs Every Hour](https://jobseveryhour.com/remote/)**: Remote jobs read every hour straight from employers' own career pages, with closed jobs removed and Apply on the employer's page.
 
 
 ---
