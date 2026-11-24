@@ -52,6 +52,7 @@ Here are some of the most reliable and active platforms to find remote-friendly 
 * 🎯 **[Dynamite Jobs](https://dynamitejobs.com/)**: Handpicked, vetted remote positions across engineering, product, marketing, and operations.
 * 🛡️ **[FlexJobs](https://www.flexjobs.com/)**: A subscription-based service that pre-screens remote and flexible jobs.
 * 🤝 **[Hired](https://hired.com/)**: Companies apply to you for tech and engineering roles.
+* 🪙 **[JobsInCrypto](https://jobsincrypto.net/)**: 1,000+ manually checked crypto and web3 jobs, plus a talent pool: create an anonymous profile and companies message you first. Free.
 * ☕ **[Jobspresso](https://jobspresso.co/)**: Expertly curated remote careers in tech, marketing, customer support, and more.
 * ⚡ **[JS Remotely](https://jsremotely.com/)**: Remote JavaScript, TypeScript, React, Node.js, and frontend/fullstack developer jobs.
 * 💼 **[LinkedIn](https://www.linkedin.com/jobs/remote-jobs/)**: Use the "Remote" filter to find verified opportunities globally.
